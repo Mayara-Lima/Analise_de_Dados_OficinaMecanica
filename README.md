@@ -12,6 +12,11 @@ Além disso, é primordial exercer o pensamento análitico e crítico, ser obser
 ## Bibliotecas python utilizadas:
 
 • Pandas
+
 • Matplotlib
+
 • Locale
+
+
+### A análise exploratória de dados oferece uma série de benefícios valiosos para uma oficina mecânica, desempenhando um papel fundamental na otimização de processos e na tomada de decisões informadas. Ao examinar dados relacionados às atividades da oficina, como, por exemplo, orçamentos e dias de atraso na entrega, é possível identificar padrões, tendências e anomalias que podem passar despercebidos de outra forma. Essa abordagem analítica permite uma compreensão mais profunda do desempenho operacional, destacando áreas de eficiência e oportunidades de melhorias. Além disso, a análise exploratória de dados facilita a previsão de demanda por serviços, contribuindo para um planejamento mais eficiente e uma gestão de recursos mais eficaz. 
 
